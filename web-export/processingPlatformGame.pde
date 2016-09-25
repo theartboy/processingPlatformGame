@@ -1,4 +1,10 @@
-/* @pjs preload="unicorn0001.png,unicorn0002.pngunicorn0003.pngunicorn0004.pngunicorn0005.pngunicorn0006.pngunicorn0007.pngunicorn0008.pngunicorn0009.pngunicorn0010.pngunicorn0011.png,unicorn0012.png,laser.png"; */
+/* @pjs preload="data/unicorn0001.png,
+data/unicorn0002.png,data/unicorn0003.png,
+data/unicorn0004.png,data/unicorn0005.png,
+data/unicorn0006.png,data/unicorn0007.png,
+data/unicorn0008.png,data/unicorn0009.png,
+data/unicorn0010.png,data/unicorn0011.png,
+data/unicorn0012.png,data/laser.png"; */
 
 Unicorn u;
 Platform [] platforms;
