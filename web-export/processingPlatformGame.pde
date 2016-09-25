@@ -1,3 +1,5 @@
+/* @pjs preload="unicorn0001.png,unicorn0002.pngunicorn0003.pngunicorn0004.pngunicorn0005.pngunicorn0006.pngunicorn0007.pngunicorn0008.pngunicorn0009.pngunicorn0010.pngunicorn0011.png,unicorn0012.png,laser.png"; */
+
 Unicorn u;
 Platform [] platforms;
 // Platform p;
